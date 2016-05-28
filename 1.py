@@ -1,4 +1,4 @@
-
+#Create a bytearray from a image from the disk and write it in gray scale
 import cv2
 import numpy as np
 
